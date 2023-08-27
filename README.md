@@ -32,4 +32,4 @@ The Customer API is a RESTful web service that allows you to manage customer and
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/customer-api.git
+   git clone https://github.com/jibran32/ASP.NETCore6-CRUD.git
